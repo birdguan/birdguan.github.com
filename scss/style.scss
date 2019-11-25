@@ -555,6 +555,12 @@ a {
   backface-visibility: hidden;
 }
 
+.img-fluid.img-icon {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
 .middle {
   transition: .5s ease;
   opacity: 0;
